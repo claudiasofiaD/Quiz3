@@ -10,4 +10,4 @@ while guess != number:
         print("Too high!")
     guess = int(input("Guess again: "))
 
-print("You guessed it! The number was", number)
+print("Correct! The number was", number)
