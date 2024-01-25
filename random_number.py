@@ -9,5 +9,3 @@ while guess != number:
     else:
         print("Too high!")
     guess = int(input("Make another guess: "))
-
-print("Correct! The number was", number)
